@@ -26,4 +26,4 @@
 
 ## Authors
 
-- [@szejku11](https://github.com/szejku11)
+- [@piotr-owczarek](https://github.com/piotr-owczarek)
